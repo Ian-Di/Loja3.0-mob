@@ -26,7 +26,7 @@ a{
 }
 
 .logo{
-    font-size: 4vh;
+    font-size: 3.5vh;
     letter-spacing: 5px;
 }
 
@@ -68,7 +68,7 @@ a{
 
 .img-card img{
     display: flex;
-    height: 30vh;
+    height: 20vh;
     margin: auto;
 }
 
