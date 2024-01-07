@@ -64,7 +64,9 @@ a{
 
 .img-card img{
     display: flex;
-    height: 26.5vh;
+    margin: auto;
+    margin-top: 20px;
+    height: 24vh;
     
 }
 
